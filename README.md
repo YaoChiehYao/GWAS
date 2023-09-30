@@ -1,6 +1,6 @@
 module10_assignment
 
-## Topic GWAS Analysis
+## Topic: GWAS Analysis
 
 In assignment 10, we used the Plink bioinformatic tool and its pipeline 
 created by the Board Institute and Havard University. This script runs 
